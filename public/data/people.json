@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "image": "https://example.com/images/headphones.jpg",
+    "category": "Electronics",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "description": "Track your steps, heart rate, and calories burned.",
+    "image": "https://example.com/images/tracker.jpg",
+    "category": "Wearables",
+    "inStock": false
+  },
+  {
+    "id": 3,
+    "name": "Smartphone Stand",
+    "price": 15.99,
+    "description": "Adjustable and foldable stand for phones and tablets.",
+    "image": "https://example.com/images/stand.jpg",
+    "category": "Accessories",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "LED Desk Lamp",
+    "price": 29.99,
+    "description": "Modern LED lamp with brightness control.",
+    "image": "https://example.com/images/lamp.jpg",
+    "category": "Home & Office",
+    "inStock": true
+  }
+]
